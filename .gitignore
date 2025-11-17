@@ -9,8 +9,6 @@ __pycache__/
 .env
 venv/
 
-# Archivos CSV pesados
-*.csv
 
 # Archivos de configuración local
 .vscode/
